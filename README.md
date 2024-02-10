@@ -23,7 +23,7 @@ An analysis of a Microsoft SQL database is conducted to extract meaningful insig
 - Step 4 : Queries are designed to extract relevant insights, such as the number of customers without a middle name and the count of email addresses not ending in a specific domain.
 
            
-- Step 11 : Queries were generated to answer the specific questions 
+- Step 5 : Queries were generated to answer the specific questions 
 
 -- 1. How many people in the DB do not have a middle name? Show the query.
 SELECT COUNT(*)
@@ -120,7 +120,7 @@ order by ListPrice desc;
 The queries provide valuable insights into various aspects of the database, including customer data, sales, product information, and employee demographics.
 Insights include identifying missing middle names, email address patterns, customer responses to email promotions, purchasing manager contacts, single-item order trends, expensive products by color, product margins, and workforce demographics.
 
-Recommendations:
+# Recommendations:
 1. Implement measures to ensure completeness and accuracy of data, particularly regarding middle names and email addresses.Consider investigating the reasons behind the missing middle names, such as data entry conventions or cultural factors, to ensure data completeness and accuracy.
 
 2. Evaluate the effectiveness of email promotions and consider refining targeting strategies based on customer responses. Review email domain patterns to ensure data consistency and consider verifying email addresses for accuracy to improve communication effectiveness.
