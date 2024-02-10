@@ -123,7 +123,7 @@ Insights include identifying missing middle names, email address patterns, custo
 Recommendations:
 1. Implement measures to ensure completeness and accuracy of data, particularly regarding middle names and email addresses.Consider investigating the reasons behind the missing middle names, such as data entry conventions or cultural factors, to ensure data completeness and accuracy.
 
-2.Evaluate the effectiveness of email promotions and consider refining targeting strategies based on customer responses. Review email domain patterns to ensure data consistency and consider verifying email addresses for accuracy to improve communication effectiveness.
+2. Evaluate the effectiveness of email promotions and consider refining targeting strategies based on customer responses. Review email domain patterns to ensure data consistency and consider verifying email addresses for accuracy to improve communication effectiveness.
 
 3. Tailor marketing efforts towards purchasing managers to enhance engagement and increase sales opportunities. Analyze the effectiveness of email promotions by tracking customer responses and conversion rates to optimize future marketing campaigns.
 
