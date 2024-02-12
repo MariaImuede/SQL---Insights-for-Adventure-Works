@@ -8,6 +8,7 @@
 ## Problem Statement
 
 An analysis of a Microsoft SQL database is conducted to extract meaningful insights related to customer data, sales, and product information. The objectives include identifying patterns, trends, and key metrics to inform decision-making processes and address specific business inquiries.
+Dataset provided by: https://www.linkedin.com/company/quantum-analytics-ng/
 
 
 
